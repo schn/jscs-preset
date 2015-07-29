@@ -1,0 +1,94 @@
+{
+  "requireCurlyBraces": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch"
+  ],
+  "requireSpaceAfterKeywords": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "switch",
+    "case",
+    "return",
+    "try",
+    "catch",
+    "function",
+    "typeof"
+  ],
+  "requireSpaceBeforeKeywords": [
+    "else",
+    "while",
+    "catch"
+  ],
+
+  "requireSpaceBeforeBlockStatements": true,
+  "requireParenthesesAroundIIFE": true,
+  "requireSpacesInConditionalExpression": true,
+  "disallowSpacesInNamedFunctionExpression": {
+    "beforeOpeningRoundBrace": true
+  },
+  "disallowSpacesInFunctionDeclaration": {
+    "beforeOpeningRoundBrace": true
+  },
+  "requireMultipleVarDecl": "onevar",
+
+  "disallowEmptyBlocks": true,
+  "disallowSpacesInsideArrayBrackets": true,
+  "disallowSpacesInsideParentheses": true,
+
+  "disallowSpaceBeforePostfixUnaryOperators": true,
+  "disallowSpaceBeforeBinaryOperators": [
+    ","
+  ],
+  "requireSpacesInForStatement": true,
+  "requireSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "requireSpaceBeforeBinaryOperators": true,
+  "requireSpaceAfterBinaryOperators": true,
+  "disallowKeywords": [
+    "with",
+    "continue"
+  ],
+  "validateIndentation": 4,
+  "disallowMixedSpacesAndTabs": true,
+  "disallowTrailingWhitespace": true,
+  "disallowKeywordsOnNewLine": [
+    "else"
+  ],
+  "requireLineFeedAtFileEnd": true,
+  "requireCapitalizedConstructors": true,
+  "requireDotNotation": true,
+  "disallowNewlineBeforeBlockStatements": true,
+  "disallowMultipleLineStrings": true,
+  "requireSpaceBeforeObjectValues": true,
+  "validateLineBreaks": "LF",
+
+  "validateParameterSeparator": ", ",
+  "validateQuoteMarks": true,
+  "requireSpaceBetweenArguments": true,
+  "requireSemicolons": true,
+  "requirePaddingNewLinesBeforeLineComments": true,
+  "requireObjectKeysOnNewLine": true,
+  "requireLineBreakAfterVariableAssignment": true,
+  "requireCommaBeforeLineBreak": true,
+  "requireCamelCaseOrUpperCaseIdentifiers": true,
+  "requireBlocksOnNewline": true,
+  "maximumNumberOfLines": 200,
+  "disallowTrailingComma": true,
+  "disallowSpaceBeforeSemicolon": true,
+  "disallowSpaceBeforeComma": true,
+  "disallowSpacesInCallExpression": true,
+  "disallowDanglingUnderscores": null,
+  "requireVarDeclFirst": null,
+  "disallowSpaceAfterObjectKeys": true,
+  "disallowSpaceAfterPrefixUnaryOperators": true,
+  "disallowQuotedKeysInObjects": "allButReserved"
+}
